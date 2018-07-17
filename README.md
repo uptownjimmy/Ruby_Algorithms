@@ -9,9 +9,5 @@ opportunity for reimplementation in a study of both Ruby and algorithms.
 There are many examples on the Web to help a beginner get started with Ruby, from installing the latest version, 
 to writing tests, to running scripts in terminal, etc. 
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 ## Author
 **James McRay Johnson III**
